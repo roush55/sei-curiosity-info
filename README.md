@@ -1,0 +1,1 @@
+# sei-curiosity-info

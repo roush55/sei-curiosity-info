@@ -29,15 +29,13 @@ lunch break | 01:00pm - 2pm      | 1 Hour
 Asr   break | 3:45pm - 4pm       | 15 Minutes
 
 
-## Instructors 
+## Instructional Team
+- **Ahmed Tahir ** (Lead Instructor)
+- **Maha Khalaf ** (Lead Instructor)
+- **Salman Altuwayjiri** (Instructional Associate)
+- **Sami Aldahlawi** (Instructional Associate)
 
-| Name  | 
-| ----- | 
-| Ahmed Tahir  |   
-| Maha Khalaf |
-| Salman Altuwayjiri |   
-| Sami Aldahlawi |   
-
+--------
 
 ## Curriculum Overview
 

@@ -26,7 +26,7 @@ Al-Faisal University
 
 **Wednesday 5:30pm - 7:30pm office hours**
 
-SEI Lead
+
 
 ## Instructors 
 

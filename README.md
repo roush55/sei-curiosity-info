@@ -19,7 +19,7 @@ Hi folks, Welcome to SEI 9 "SEI CURIOSITY". This repository contains information
 Class | Sun - Thurs | 9am - 5pm 
 Office Hours | Tuesday | 5:30pm - 7:30pm
 
-| | Breaks | x
+| | Breaks | |
 -- | --    | --
 First break | 10:50pm - 11:00pm  | 10 - Minutes
 lunch break | 01:00pm - 2pm      | 01 - Hour

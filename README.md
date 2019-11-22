@@ -34,8 +34,8 @@ SEI Lead
 | ----- | 
 | Ahmed Tahir  |   
 | Maha Khalaf |
-| Sami Aldahlawi  |   
-| Salman Altuwayjiri  |   
+| Salman Altuwayjiri |   
+| Sami Aldahlawi |   
 
 
 ## Curriculum Overview

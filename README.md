@@ -10,9 +10,6 @@ Hi folks, Welcome to SEI 9 "SEI CURIOSITY". This repository contains information
 - [Exit Ticket](https://docs.google.com/forms/d/e/1FAIpQLSc6_8nD_EvOZvHUx-Yh0GPv_fbWehtYJxbxIONNPTrvT7uJew/viewform) (complete at the end of Thursday class each week)
 
 ## Location
-
-Al-Faisal University
-
 [Al-Faisal University](https://www.google.com/maps/place/Alfaisal+University/@24.663347,46.6750344,17z/data=!3m1!4b1!4m5!3m4!1s0x3e2f04a8d10e834b:0xb60f3792b7de22aa!8m2!3d24.663347!4d46.6772231)
 
 ## Schedule
@@ -30,8 +27,8 @@ Asr   break | 3:45pm - 4pm       | 15 Minutes
 
 
 ## Instructional Team
-- **Ahmed Tahir ** (Lead Instructor)
-- **Maha Khalaf ** (Lead Instructor)
+- **Ahmed Tahir** (Lead Instructor)
+- **Maha Khalaf** (Lead Instructor)
 - **Salman Altuwayjiri** (Instructional Associate)
 - **Sami Aldahlawi** (Instructional Associate)
 

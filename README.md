@@ -22,7 +22,7 @@ Office Hours | Tuesday | 5:30pm - 7:30pm
 | | Breaks | |
 -- | --    | --
 First break | 10:50pm - 11:00pm  | 10 - Minutes
-lunch break | 01:00pm - 2pm      | 60 - Minutes
+Lunch break | 01:00pm - 2pm      | 60 - Minutes
 Asr   break | 3:45pm - 4pm       | 15 - Minutes
 
 

@@ -65,7 +65,7 @@ Curriculum schedule is subject to change at instructor's discretion.
 | 2    | 3    |      |        |         |       |         |
 | 2    | 4    |      |        |         |       |         |
 | 2    | 5    |      |        |         |       |         |
-| 3    | 1-5  | Project 4     | Project 4       | Project 4        | Project 4      | Project 4        |
+| 3    | 1-5  | Project 1     | Project 1       | Project 1        | Project 1      | Project 1        |
 | 4    | 1    |      |        |         |       |         |
 | 4    | 2    |      |        |         |       |         |
 | 4    | 3    |      |        |         |       |         |
@@ -76,7 +76,7 @@ Curriculum schedule is subject to change at instructor's discretion.
 | 5    | 3    |      |        |         |       |         |
 | 5    | 4    |      |        |         |       |         |
 | 5    | 5    |      |        |         |       |         |
-| 6    | 1-5  |      |        |         |       |         |
+| 6    | 1-5  | Project 2     | Project 2       | Project 2        | Project 2      | Project 2        |
 | 7    | 1    |      |        |         |       |         |
 | 7    | 2    |      |        |         |       |         |
 | 7    | 4    |      |        |         |       |         |
@@ -84,7 +84,7 @@ Curriculum schedule is subject to change at instructor's discretion.
 | 8    | 1    |      |        |         |       |         |
 | 8    | 3    |      |        |         |       |         |
 | 8    | 4    |      |        |         |       |         |
-| 9    | 1-5  |      |        |         |       |         |
+| 9    | 1-5  | Project 3     | Project 3       | Project 3        | Project 3      | Project 3        |
 | 10   | 1    |      |        |         |       |         |
 | 10   | 2    |      |        |         |       |         |
 | 10   | 3    |      |        |         |       |         |
@@ -95,4 +95,5 @@ Curriculum schedule is subject to change at instructor's discretion.
 | 11   | 3    |      |        |         |       |         |
 | 11   | 4    |      |        |         |       |         |
 | 11   | 5    |      |        |         |       |         |
-| 12   | 1-5    | Project 4      | Project 4       |   Project 4      |  Project 4     |    Project 4     |
+| 12   | 1-5    | Project 4      | Project 4       |   Project 4      |  Project 4     |    Project 4   |
+

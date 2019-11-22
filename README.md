@@ -18,11 +18,11 @@ Al-Faisal University
 ## Hours
 
 **Sun - Thurs 9am - 6pm class**
->10:45pm - 11:00pm - First break
+>10:45pm - 11:00pm ~> First break
 
->01:00pm - 2pm lunch break
+>01:00pm - 2pm ~> lunch break
 
->3:45pm - 4pm Asr prayer break 
+>3:45pm - 4pm ~> Asr prayer break 
 
 **Wednesday 5:30pm - 7:30pm office hours**
 

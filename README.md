@@ -18,7 +18,7 @@ Al-Faisal University
 ## Schedule
 
 || Days | Time | period of time
--- | -- | --   | 
+-- | -- | --   | --
 Class | Sun - Thurs | 9am - 5pm 
 Office Hours | Tuesday | 5:30pm - 7:30pm
 

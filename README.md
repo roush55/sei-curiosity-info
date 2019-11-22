@@ -15,17 +15,18 @@ Al-Faisal University
 
 [Al-Faisal University](https://www.google.com/maps/place/Alfaisal+University/@24.663347,46.6750344,17z/data=!3m1!4b1!4m5!3m4!1s0x3e2f04a8d10e834b:0xb60f3792b7de22aa!8m2!3d24.663347!4d46.6772231)
 
-## Hours
+## Schedule
 
-**Sun - Thurs 9am - 6pm class**
->10:45pm - 11:00pm ~> First break
+|| Days | Time
+-- | -- | --
+Class | Sun - Thurs | 9am - 5pm 
+Office Hours | Tuesday | 5:30pm - 7:30pm
 
->01:00pm - 2pm ~> lunch break
-
->3:45pm - 4pm ~> Asr prayer break 
-
-**Wednesday 5:30pm - 7:30pm office hours**
-
+| | Breaks 
+-- | -- 
+First break | 10:50pm - 11:00pm  
+lunch break | 01:00pm - 2pm
+Asr   break | 3:45pm - 4pm 
 
 
 ## Instructors 

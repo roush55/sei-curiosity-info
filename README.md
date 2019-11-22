@@ -102,14 +102,14 @@ Curriculum schedule is subject to change at instructor's discretion.
 ----------
 #### Group Projects 3 
 
-| No. |Group Name| Student One |Student Two| Student Three | Student Four | Student Five | Project Repo |
-| --- | ---| --- | --- | -- | -- | -- | -- |
-1 |   |    |     |     |    |    |    |    |
-2 |   |    |     |     |    |    |    |    |
-3 |   |    |     |     |    |    |    |    |
-4 |   |    |     |     |    |    |    |    |
-5 |   |    |     |     |    |    |    |    |
-6 |   |    |     |     |    |    |    |    |
+| No. |Group Name| Student One |Student Two| Student Three | Project Repo |
+| --- | ---| --- | --- | -- |  -- |
+1 |   |    |     |     |    |     |
+2 |   |    |     |     |    |     |
+3 |   |    |     |     |    |     |
+4 |   |    |     |     |    |     |
+5 |   |    |     |     |    |     |
+6 |   |    |     |     |    |     |
 
 ## Licensing
 1. All content is licensed under a CC-BY-NC-SA 4.0 license.

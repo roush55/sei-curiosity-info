@@ -56,7 +56,7 @@ Curriculum schedule is subject to change at instructor's discretion.
 | 1    | 3    |   [Raindrops](https://github.com/sei-curiosity/warmup-week01day03-javascript)   | [Submission with GIT/GITHUB](https://github.com/sei-curiosity/week01day02-gitgithub)      |    [JS Functions](https://github.com/sei-curiosity/week01day03-js-functions)      |       |     [JS Functions HW](https://github.com/sei-curiosity/hw-week01day03-js-functions)    |
 | 1    | 4    |   [Practice HW -JS-Function](https://github.com/sei-curiosity/hw-week01day03-js-functions)   |     [JavaScript Loops](https://github.com/sei-curiosity/week01day04-js-loops)   |    [JavaScript Arrays](https://github.com/sei-curiosity/week01day04-js-array)     |       |    [HW-JS Loops + Arrays](https://github.com/sei-curiosity/hw-week01day04-js-arrays)     |
 | 1    | 5    |  [Practice HW-js-Loops+Arrays](https://github.com/sei-curiosity/hw-week01day04-js-arrays)    |   [Javascript Objects](https://github.com/sei-curiosity/week01day05-js-objects)     |         |       |     [JS-mbta](https://github.com/sei-curiosity/hw-week01day05-js-mbta)    |
-| 2    | 1    |      |    [HTML + CSS](https://github.com/sei-curiosity/week02day01-html-css)    |         |       |         |
+| 2    | 1    |      |    [HTML + CSS](https://github.com/sei-curiosity/week02day01-html-css)    |     [LAB - HTML + CSS](https://github.com/sei-curiosity/week02day01-html-css/tree/master/exercises/starter_code)    |       |    [HW HTML/CSS](https://github.com/sei-curiosity/hw-week02day01-html-css)     |
 | 2    | 2    |      |        |         |       |         |
 | 2    | 3    |      |        |         |       |         |
 | 2    | 4    |      |        |         |       |         |

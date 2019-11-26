@@ -59,7 +59,7 @@ Curriculum schedule is subject to change at instructor's discretion.
 | 2    | 1    |      |    [HTML + CSS](https://github.com/sei-curiosity/week02day01-html-css)    |     [LAB - HTML + CSS](https://github.com/sei-curiosity/week02day01-html-css/tree/master/exercises/starter_code)    |       |    [HW HTML/CSS](https://github.com/sei-curiosity/hw-week02day01-html-css)     |
 | 2    | 2    |      |    [CSS Positioning](https://github.com/sei-curiosity/week02day02-csspositioning)    |     [CSS Flexbox](https://github.com/sei-curiosity/week02day02-css-flexbox)    |   [Lab - Position/Flexbox](https://github.com/sei-curiosity/week02day02-csslayout-exercise)    |    [HW Flexbox](https://github.com/sei-curiosity/hw-week02day02-html-css-flexbox)     |
 | 2    | 3    |      |   [Responsive-Design](https://github.com/sei-curiosity/week02day03-responsive-design)     |    [LAB-Responsive-Design](https://github.com/sei-curiosity/lab-week02day03-responsive)     |   [Advanced-JS](https://github.com/sei-curiosity/week02day03-Jsdvanced)    |    [HW-Responsive-Web-Design](https://github.com/sei-curiosity/hw-week02day03-responsive-design)     |
-| 2    | 4    |  [Advanced-JS](https://github.com/sei-curiosity/warmup-week_02-day_04-advanced-js/blob/master/main.js)    |        |         |       |         |
+| 2    | 4    |  [Advanced-JS](https://github.com/sei-curiosity/warmup-week_02-day_04-advanced-js)    |        |         |       |         |
 | 2    | 5    |      |        |         |       |         |
 | 3    | 1-5  | Project 1     | Project 1       | Project 1        | Project 1      | Project 1        |
 | 4    | 1    |      |        |         |       |         |

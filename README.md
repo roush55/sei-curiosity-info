@@ -62,7 +62,7 @@ Curriculum schedule is subject to change at instructor's discretion.
 | 2    | 4    |  [Advanced-JS](https://github.com/sei-curiosity/warmup-week_02-day_04-advanced-js)    |        |         |       |         |
 | 2    | 5    |      |        |         |       |         |
 | 3    | 1-5  | Project 1     | Project 1       | Project 1        | Project 1      | Project 1        |
-| 4    | 1    |      |        |         |       |         |
+| 4    | 1    |[Game-Of-Zones](https://github.com/sei-curiosity/warmup-week04day01-game-of-zones)  |        |         |       |         |
 | 4    | 2    |      |        |         |       |         |
 | 4    | 3    |      |        |         |       |         |
 | 4    | 4    |      |        |         |       |         |

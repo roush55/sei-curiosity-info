@@ -59,8 +59,8 @@ Curriculum schedule is subject to change at instructor's discretion.
 | 2    | 1    |      |    [HTML + CSS](https://github.com/sei-curiosity/week02day01-html-css)    |     [LAB - HTML + CSS](https://github.com/sei-curiosity/week02day01-html-css/tree/master/exercises/starter_code)    |       |    [HW HTML/CSS](https://github.com/sei-curiosity/hw-week02day01-html-css)     |
 | 2    | 2    |      |    [CSS Positioning](https://github.com/sei-curiosity/week02day02-csspositioning)    |     [CSS Flexbox](https://github.com/sei-curiosity/week02day02-css-flexbox)    |   [Lab - Position/Flexbox](https://github.com/sei-curiosity/week02day02-csslayout-exercise)    |    [HW Flexbox](https://github.com/sei-curiosity/hw-week02day02-html-css-flexbox)     |
 | 2    | 3    |      |   [Responsive-Design](https://github.com/sei-curiosity/week02day03-responsive-design)     |    [LAB-Responsive-Design](https://github.com/sei-curiosity/lab-week02day03-responsive)     |   [Advanced-JS](https://github.com/sei-curiosity/week02day03-Jsdvanced)    |    [HW-Responsive-Web-Design](https://github.com/sei-curiosity/hw-week02day03-responsive-design)     |
-| 2    | 4    |  [Advanced-JS](https://github.com/sei-curiosity/warmup-week_02-day_04-advanced-js)    |        |         |       |         |
-| 2    | 5    |      |        |         |       |         |
+| 2    | 4    |  [Advanced-JS](https://github.com/sei-curiosity/warmup-week_02-day_04-advanced-js)    |    [DOM (Native with JS)](https://github.com/sei-curiosity/week02day04-domNativeJs)    |  [jQuery DOM](https://github.com/sei-curiosity/week02day04-jQuery)       |       |   [jQuery-HW](https://github.com/sei-curiosity/hw-week02day04-jquery-dom)      |
+| 2    | 5    |      |     [jquery-and-Events](https://github.com/sei-curiosity/week02day04-jQuery)   |      [Advanced-jQuery](https://github.com/sei-curiosity/week02day05-jQueryadvanced)   |   [Lab1+lab2(jQuery)](https://github.com/sei-curiosity/week02day04-jQuery/tree/master/assignments),[Wireframes](https://github.com/sei-curiosity/week02day05-wireframes-userstories)    | [Project-1](https://github.com/sei-curiosity/project-1-prompt)    |
 | 3    | 1-5  | Project 1     | Project 1       | Project 1        | Project 1      | Project 1        |
 | 4    | 1    |[Game-Of-Zones](https://github.com/sei-curiosity/warmup-week04day01-game-of-zones)  |        |         |       |         |
 | 4    | 2    |      |        |         |       |         |
@@ -97,7 +97,7 @@ Curriculum schedule is subject to change at instructor's discretion.
 ### Students Projects
 | No. | Student| Project 1 | Project 2 | Project 3 | Project 4 |
 | --- | --- | --- | -- | -- | -- |
-| 1   |   Rana Abumelha |     |    |    |    | 
+| 1   |   Rana Abumelha |  [repo-project]() [live]()   |    |    |    | 
 | 2   |   Shahad Alalmai |     |    |    |    | 
 | 3   |   Mohammed Alenazi |     |    |    |    | 
 | 4   |   Mona Alghaihab |     |    |    |    | 

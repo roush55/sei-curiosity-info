@@ -97,31 +97,30 @@ Curriculum schedule is subject to change at instructor's discretion.
 ### Students Projects
 | No. | Student| Project 1 | Project 2 | Project 3 | Project 4 |
 | --- | --- | --- | -- | -- | -- |
-| 1   |   Rana Abumelha |  [Repo](https://roush55.github.io/project-1/) [Live](https://roush55.github.io/project-1/)   |    |    |    | 
-| 2   |   Shahad Alalmai |   [Repo](https://github.com/shahadalalmai/tic-tac-toe) [Live](https://shahadalalmai.github.io/tic-tac-toe/)   |    |    |    | 
-| 3   |   Mohammed Alenazi |  [Repo](https://github.com/lmdsultan/Project-1) [Live](https://lmdsultan.github.io/Project-1/)    |    |    |    | 
-| 4   |   Mona Alghaihab |   [Repo](https://github.com/monano/Project-1) [Live](https://monano.github.io/Project-1/)   |    |    |    | 
-| 5   |   Ahmed AlHindi |  [Repo](https://github.com/ahmedalhindi/project-1) [Live](https://ahmedalhindi.github.io/project-1/)    |    |    |    | 
-| 6   |   Ahmed Alnemer |  [Repo](https://github.com/ahmedalnemer/project-1) [Live](https://ahmedalnemer.github.io/project-1/)    |    |    |    | 
-| 7   |   Meshal Alqahtani |  [Repo](https://github.com/gneral20/Project-1) [Live](https://gneral20.github.io/Project-1/)    |    |    |    | 
-| 8   |   Mayar Alsaleh |  [Repo](https://github.com/maysa9/project-1) [Live](https://maysa9.github.io/project-1/)    |    |    |    | 
-| 9   |   Noorah AlSubaiee | [Repo](https://github.com/NooraAbdullah/trivia) [Live](https://nooraabdullah.github.io/trivia/)     |    |    |    | 
-| 10  |   Mohammed Shatry |  [Repo](https://github.com/mohammedshatry/First-Game-) [Live](https://mohammedshatry.github.io/First-Game-/)    |    |    |    | 
-| 11  |   Modhi Aldughaiyem | [Repo](https://github.com/modhi1993/project-1-SEI-game) [Live](https://modhi1993.github.io/project-1-SEI-game/)     |    |    |    | 
-| 12  |   Abdullah Alharbi |  [Repo]() [Live]()    |    |    |    | 
-| 13  |   Omer Almogathwi |  [Repo](https://github.com/ooeid/project-1) [Live](https://ooeid.github.io/project-1/)     |    |    |    | 
-| 14  |   Abdullah Alruwaybiah |  [Repo](https://github.com/Abdulah68/project-1) [Live](https://abdulah68.github.io/project-1/)    |    |    |    | 
-| 15  |   Sara Bin Battal |  [Repo](https://github.com/albattalsara/Tic-Tac-Toe) [Live](https://albattalsara.github.io/tic-tac-toe/)    |    |    |    | 
-| 16  |   Mohammed  AlMohana|  [Repo](https://github.com/mohammedAlmohana/project-1) [Live](https://mohammedalmohana.github.io/project-1/)    |    |    |    | 
-| 17  |   ABDULLAH	ALZAMIL  | [Repo](https://github.com/3zamil/tic-tac-toe) [Live](https://3zamil.github.io/tic-tac-toe/)     |    |    |    | 
-| 18  |   Mishal	Alkhalifa  |   [Repo](https://github.com/mashaelakh/Project-1) [Live](https://mashaelakh.github.io/Project-1/)  |   |    |    | 
-| 19  |   Zena	Almandeel  |  [Repo](https://github.com/Zenaalma/project-1) [Live]( https://zenaalma.github.io/project-1/)  |    |    |    | 
-| 20  |   Leena	Alnahabi  |  [Repo](https://github.com/leenahabi/project-01) [Live](https://leenahabi.github.io/project-01/)    |    |    |    | 
-| 21  |   Bayan	Albunayan  |   [Repo](https://github.com/bynist/Tic-tac-toe.git) [Live](https://bynist.github.io/Tic-tac-toe/)   |    |    |    | 
-| 22  |   Mohammed	Alnakhli  |  [Repo](https://github.com/M-Alnakhli/GA_FrontEnd.git) [Live](https://m-alnakhli.github.io/GA_FrontEnd/)    |    |    |    | 
-| 23  |   Abdullah	Alsubaie  |   [Repo](https://github.com/alsubi/project-1) [Live](https://alsubi.github.io/project-1/)   |    |    |    | 
-| 24  |   Abdulaziz	Dulaym  |  [Repo](https://github.com/alsubaie89/my-1st-Project) [Live](https://alsubaie89.github.io/my-1st-Project/)    |    |    |    | 
-
+| 1   |   Rana Abumelha |  [Repo](https://roush55.github.io/project-1/), ([Live](h)ttps://roush55.github.io/project-1/)   |    |    |    | 
+| 2   |   Shahad Alalmai |   [Repo](https://github.com/shahadalalmai/tic-tac-toe), ([Live](h)ttps://shahadalalmai.github.io/tic-tac-toe/)   |    |    |    | 
+| 3   |   Mohammed Alenazi |  [Repo](https://github.com/lmdsultan/Project-1), ([Live](h)ttps://lmdsultan.github.io/Project-1/)    |    |    |    | 
+| 4   |   Mona Alghaihab |   [Repo](https://github.com/monano/Project-1), ([Live](h)ttps://monano.github.io/Project-1/)   |    |    |    | 
+| 5   |   Ahmed AlHindi |  [Repo](https://github.com/ahmedalhindi/project-1), ([Live](h)ttps://ahmedalhindi.github.io/project-1/)    |    |    |    | 
+| 6   |   Ahmed Alnemer |  [Repo](https://github.com/ahmedalnemer/project-1), ([Live](h)ttps://ahmedalnemer.github.io/project-1/)    |    |    |    | 
+| 7   |   Meshal Alqahtani |  [Repo](https://github.com/gneral20/Project-1), ([Live](h)ttps://gneral20.github.io/Project-1/)    |    |    |    | 
+| 8   |   Mayar Alsaleh |  [Repo](https://github.com/maysa9/project-1), ([Live](h)ttps://maysa9.github.io/project-1/)    |    |    |    | 
+| 9   |   Noorah AlSubaiee | [Repo](https://github.com/NooraAbdullah/trivia), ([Live](h)ttps://nooraabdullah.github.io/trivia/)     |    |    |    | 
+| 10  |   Mohammed Shatry |  [Repo](https://github.com/mohammedshatry/First-Game-), ([Live](h)ttps://mohammedshatry.github.io/First-Game-/)    |    |    |    | 
+| 11  |   Modhi Aldughaiyem | [Repo](https://github.com/modhi1993/project-1-SEI-game), ([Live](h)ttps://modhi1993.github.io/project-1-SEI-game/)     |    |    |    | 
+| 12  |   Abdullah Alharbi |  [Repo](), ([Live]())    |    |    |    | 
+| 13  |   Omer Almogathwi |  [Repo](https://github.com/ooeid/project-1), ([Live](h)ttps://ooeid.github.io/project-1/)     |    |    |    | 
+| 14  |   Abdullah Alruwaybiah |  [Repo](https://github.com/Abdulah68/project-1), ([Live](h)ttps://abdulah68.github.io/project-1/)    |    |    |    | 
+| 15  |   Sara Bin Battal |  [Repo](https://github.com/albattalsara/Tic-Tac-Toe), ([Live](h)ttps://albattalsara.github.io/tic-tac-toe/)    |    |    |    | 
+| 16  |   Mohammed  AlMohana|  [Repo](https://github.com/mohammedAlmohana/project-1), ([Live](h)ttps://mohammedalmohana.github.io/project-1/)    |    |    |    | 
+| 17  |   ABDULLAH	ALZAMIL  | [Repo](https://github.com/3zamil/tic-tac-toe), ([Live](h)ttps://3zamil.github.io/tic-tac-toe/)     |    |    |    | 
+| 18  |   Mishal	Alkhalifa  |   [Repo](https://github.com/mashaelakh/Project-1), ([Live](h)ttps://mashaelakh.github.io/Project-1/)  |   |    |    | 
+| 19  |   Zena	Almandeel  |  [Repo](https://github.com/Zenaalma/project-1), ([Live]( )https://zenaalma.github.io/project-1/)  |    |    |    | 
+| 20  |   Leena	Alnahabi  |  [Repo](https://github.com/leenahabi/project-01), ([Live](h)ttps://leenahabi.github.io/project-01/)    |    |    |    | 
+| 21  |   Bayan	Albunayan  |   [Repo](https://github.com/bynist/Tic-tac-toe.git), ([Live](h)ttps://bynist.github.io/Tic-tac-toe/)   |    |    |    | 
+| 22  |   Mohammed	Alnakhli  |  [Repo](https://github.com/M-Alnakhli/GA_FrontEnd.git), ([Live](h)ttps://m-alnakhli.github.io/GA_FrontEnd/)    |    |    |    | 
+| 23  |   Abdullah	Alsubaie  |   [Repo](https://github.com/alsubi/project-1), ([Live](h)ttps://alsubi.github.io/project-1/)   |    |    |    | 
+| 24  |   Abdulaziz	Dulaym  |  [Repo](https://github.com/alsubaie89/my-1st-Project), ([Live](h)ttps://alsubaie89.github.io/my-1st-Project/)    |    |    |    | 
 
 ----------
 #### Group Projects 3 

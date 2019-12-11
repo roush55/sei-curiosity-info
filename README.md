@@ -114,7 +114,7 @@ Curriculum schedule is subject to change at instructor's discretion.
 | 15  |   Sara Bin Battal |  [Repo](https://github.com/albattalsara/Tic-Tac-Toe) [Live](https://albattalsara.github.io/tic-tac-toe/)    |    |    |    | 
 | 16  |   Mohammed  AlMohana|  [Repo](https://github.com/mohammedAlmohana/project-1) [Live](https://mohammedalmohana.github.io/project-1/)    |    |    |    | 
 | 17  |   ABDULLAH	ALZAMIL  | [Repo](https://github.com/3zamil/tic-tac-toe) [Live](https://3zamil.github.io/tic-tac-toe/)     |    |    |    | 
-| 18  |   Mishal	Alkhalifa  |   [Repo](https://github.com/mashaelakh/Project-1)  |  [Live](https://mashaelakh.github.io/Project-1/)  |    |    | 
+| 18  |   Mishal	Alkhalifa  |   [Repo](https://github.com/mashaelakh/Project-1) [Live](https://mashaelakh.github.io/Project-1/)  |   |    |    | 
 | 19  |   Zena	Almandeel  |  [Repo](https://github.com/Zenaalma/project-1) [Live]( https://zenaalma.github.io/project-1/)  |    |    |    | 
 | 20  |   Leena	Alnahabi  |  [Repo](https://github.com/leenahabi/project-01) [Live](https://leenahabi.github.io/project-01/)    |    |    |    | 
 | 21  |   Bayan	Albunayan  |   [Repo](https://github.com/bynist/Tic-tac-toe.git) [Live](https://bynist.github.io/Tic-tac-toe/)   |    |    |    | 

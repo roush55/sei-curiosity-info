@@ -66,7 +66,7 @@ Curriculum schedule is subject to change at instructor's discretion.
 | 4    | 2    |      |    [Ruby - Methods](https://github.com/sei-curiosity/week04day02-rubyMethods)    |    [Ruby-Objects & Classes](https://github.com/sei-curiosity/week04day03-RubyObjects)     |       |     [Ruby MBTA & Classes](https://github.com/sei-curiosity/hw-week04day02-ruby-objects)    |
 | 4    | 3    |      |   [Ruby Inheritances & types variables ](https://github.com/sei-curiosity/week04day03-RubyInheritence)    |   [Ruby classes/Inheritance Self](https://github.com/sei-curiosity/week04day03-RubyInheritence)      |       |         |
 | 4    | 4    |  [Practice - Ruby MBTA & classes](https://github.com/sei-curiosity/hw-week04day02-ruby-objects)    |   [SQL Install & SQL basic](https://github.com/sei-curiosity/week04day04-SQL)     |    [ SQL ](https://github.com/sei-curiosity/week04day04-SQL)     |       |   [SQL homework](https://github.com/sei-curiosity/hw-week04day04-sql)      |
-| 4    | 5    |      |        |         |       |         |
+| 4    | 5    |      |    [Rails intro - MVC](https://github.com/sei-curiosity/week04day05-railsIntro)    |         |       |       [HW - Rails](https://github.com/sei-curiosity/hw-week04day05-rails)  |
 | 5    | 1    |      |        |         |       |         |
 | 5    | 2    |      |        |         |       |         |
 | 5    | 3    |      |        |         |       |         |

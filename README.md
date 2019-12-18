@@ -71,7 +71,7 @@ Curriculum schedule is subject to change at instructor's discretion.
 | 5    | 2    |  [practics - MVC](practics)    |    [Rails - One-to-many - Cont](https://github.com/sei-curiosity/week05day01-rails-one-to-many)      |         |       |      [Rails - DOC]( https://guides.rubyonrails.org/getting_started.html)   |
 | 5    | 3    |      |     [Rails - One-to-many - Cont](https://github.com/sei-curiosity/week05day01-rails-one-to-many)   |         |       |     [Rails - DOC]( https://guides.rubyonrails.org/getting_started.html)    |
 | 5    | 4    |      |  [Rails Model Validations](https://github.com/sei-curiosity/week05day04-railsValidations)    |    [Rails Authentication and Sessions](https://github.com/sei-curiosity/week05day04-railsDevice)       |       |     [Devise-HW](https://github.com/sei-curiosity/hw-week05day04-devise)    |
-| 5    | 5    |      |        |         |       |         |
+| 5    | 5    |      |    [Rails Assets - SASS"](https://github.com/sei-curiosity/week05day05-railsAssets)    |    [Rails Bootstrap](https://github.com/sei-curiosity/week05day05-railsBootstrap)     |       |         |
 | 6    | 1-5  | Project 2     | Project 2       | Project 2        | Project 2      | Project 2        |
 | 7    | 1    |      |        |         |       |         |
 | 7    | 2    |      |        |         |       |         |

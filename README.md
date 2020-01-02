@@ -125,7 +125,7 @@ Curriculum schedule is subject to change at instructor's discretion.
 ----------
 #### Group Projects 3 
 
-| No. |Group Name| Student One |Student Two| Student Three | Project Repo |  |
+| No. |Group Name| Student One |Student Two| Student Three | Project Repo | 
 | --- | ---| --- | --- | -- |  -- |
 1 | Undefined  |  Rana Abu Melha   |  Noora AlSubaiee   |   Ahmed AlHindi |     |
 2 | Matrix   |  Ahmed Alnemer   |  Abdullah Alzamil   |  Mayar Alsaleh  |    |

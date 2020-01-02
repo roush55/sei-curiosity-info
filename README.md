@@ -127,14 +127,14 @@ Curriculum schedule is subject to change at instructor's discretion.
 
 | No. |Group Name| Student One |Student Two| Student Three | Project Repo |  |
 | --- | ---| --- | --- | -- |  -- |
-1 |    Undefined  |  Rana Abu Melha   |  Noora AlSubaiee   |   Ahmed AlHindi |     
-2 |     Matrix   |  Ahmed Alnemer   |  Abdullah Alzamil   |  Mayar Alsaleh  |    
-3 |     Promise  |  Abdullah Alharbi   |  Mohammed Al-Mohana   |  Sara Bin battal   |   
-4 |     Misk  |   Shahad Alalmai  |  Mashael Alkhalifah   |  Abdullah Alruwaybiah  |    
-5 |     Syntax Error  |  Mohammed Alenazi   | Meshal Alqahtani    |   Mona alghaihab  |    
-6 |     The Net  |  Abdulaziz   |  Zena   |  Modhi  |     |
-7 |     projectX | Bayan albunayan | Leena alnahabi | Omar AlMgathwi  | 
-8 |     Developers | Mohammed Shatry | Mohammed al Nakhli | Abdullah Alsubaie| 
+1 | Undefined  |  Rana Abu Melha   |  Noora AlSubaiee   |   Ahmed AlHindi |     |
+2 | Matrix   |  Ahmed Alnemer   |  Abdullah Alzamil   |  Mayar Alsaleh  |    |
+3 | Promise  |  Abdullah Alharbi   |  Mohammed Al-Mohana   |  Sara Bin battal   |  | 
+4 | Misk  |   Shahad Alalmai  |  Mashael Alkhalifah   |  Abdullah Alruwaybiah  |   | 
+5 | Syntax Error  |  Mohammed Alenazi   | Meshal Alqahtani    |   Mona alghaihab  |   | 
+6 | The Net  |  Abdulaziz   |  Zena   |  Modhi  |     |
+7 | projectX | Bayan albunayan | Leena alnahabi | Omar AlMgathwi  | |
+8 | Developers | Mohammed Shatry | Mohammed al Nakhli | Abdullah Alsubaie| |
 
 ## Licensing
 1. All content is licensed under a CC-BY-NC-SA 4.0 license.

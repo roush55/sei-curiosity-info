@@ -79,8 +79,10 @@ Curriculum schedule is subject to change at instructor's discretion.
 | 7    | 4    |      |   [Node](https://github.com/sei-curiosity/week07day04-node)     |    [React](https://github.com/sei-curiosity/week07day04-react)     |       |   [HW React Intro](https://github.com/sei-curiosity/hw-week07day04-react)      |
 | 7    | 5    |    [Research and Instruct](https://github.com/sei-curiosity/research-and-instruct/blob/master/README.md)  |    [React Components](https://github.com/sei-curiosity/week07day05-react-components)    |    [React Comp-Props](https://github.com/sei-curiosity/week07day05-react-component-Props)     |       |   [HW React Props](https://github.com/sei-curiosity/hw-week07day05-react-props)      |
 | 8    | 1    |      |        |         |       |         |
+| 8    | 2    |      |        |         |       |         |
 | 8    | 3    |      |        |         |       |         |
 | 8    | 4    |      |        |         |       |         |
+| 8    | 5    |      |        |         |       |         |
 | 9    | 1-5  | Project 3     | Project 3       | Project 3        | Project 3      | Project 3        |
 | 10   | 1    |      |        |         |       |         |
 | 10   | 2    |      |        |         |       |         |

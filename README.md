@@ -78,11 +78,11 @@ Curriculum schedule is subject to change at instructor's discretion.
 | 7    | 3    |      |    [Axios Lab](https://github.com/sei-curiosity/week07day03-axios-lab)    |         |       |     [HW Ajax](https://github.com/sei-curiosity/hw-week07day02-ajax)    |
 | 7    | 4    |      |   [Node](https://github.com/sei-curiosity/week07day04-node)     |    [React](https://github.com/sei-curiosity/week07day04-react)     |       |   [HW React Intro](https://github.com/sei-curiosity/hw-week07day04-react)      |
 | 7    | 5    |    [Research and Instruct](https://github.com/sei-curiosity/research-and-instruct/blob/master/README.md)  |    [React Components](https://github.com/sei-curiosity/week07day05-react-components)    |    [React Comp-Props](https://github.com/sei-curiosity/week07day05-react-component-Props)     |       |   [HW React Props](https://github.com/sei-curiosity/hw-week07day05-react-props)      |
-| 8    | 1    |      |        |         |       |         |
-| 8    | 2    |      |        |         |       |         |
-| 8    | 3    |      |        |         |       |         |
-| 8    | 4    |      |        |         |       |         |
-| 8    | 5    |      |        |         |       |         |
+| 8    | 1    |  [Harry Potter](https://github.com/sei-curiosity/warmup-week08day01-React-Component-and-Props)    |    [React-Lab 1](https://github.com/sei-curiosity/week08day01-04-react-film-lab)    |    [React-Component state](https://github.com/sei-curiosity/week08day01-react-state)     |       |     [HW React State](https://github.com/sei-curiosity/hw-week08day01-react-state)    |
+| 8    | 2    |    [Warmup-React State](https://github.com/sei-curiosity/warmup-week08day02-react-state)  |    [React-Lab 2](https://github.com/sei-curiosity/week08day01-04-react-film-lab/blob/master/PART-2.md)    |    [React lifecycle-Events](https://github.com/sei-curiosity/week08day02-react-lifecycle-events)     |       |  [HW React-Lifecycle](https://github.com/sei-curiosity/hw-week08day02-03-lifecycle-events-axios)       |
+| 8    | 3    |   [React state practice](https://github.com/sei-curiosity/react-form)   |     [React-Lab 3](https://github.com/sei-curiosity/week08day01-04-react-film-lab/blob/master/PART-3.md)   |   [React with Axios](https://github.com/sei-curiosity/week08day03-react-axios)      |       |    [HW-React Axios](https://github.com/sei-curiosity/hw-week08day02-03-lifecycle-events-axios)     |
+| 8    | 4    |   [React state && Axios](https://github.com/sei-curiosity/warmup-api)   |     [React Rounter](https://github.com/sei-curiosity/week08day04-react-router)   |         |       |     Prpject Ideas    |
+| 8    | 5    |      |    [React-withRouter](https://github.com/sei-curiosity/week08day04-react-router)    |   [Github Team Workflow]()      |       |     [Project-3-Prompt](https://github.com/sei-curiosity/project-3-prompt)    |
 | 9    | 1-5  | Project 3     | Project 3       | Project 3        | Project 3      | Project 3        |
 | 10   | 1    |      |        |         |       |         |
 | 10   | 2    |      |        |         |       |         |
